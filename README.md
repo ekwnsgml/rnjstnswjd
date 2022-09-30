@@ -1,1 +1,1 @@
-# rnjstnswjd
+# simple-web-visual-novel
